@@ -38,6 +38,7 @@ public struct WebimServerSideSettings: Codable {
 public struct AccountConfig: Codable {
     public let webAndMobileQuoting: Bool
     public let visitorMessageEditing: Bool
+    public let disablingMessageInputField: Bool
 //    let multilang, chattingTimer, googleAnalytics: Bool
 //    let yandexMetrikaCounterID: JSONNull?
 //    let teleport: Bool
@@ -58,6 +59,7 @@ public struct AccountConfig: Codable {
     enum CodingKeys: String, CodingKey {
         case webAndMobileQuoting = "web_and_mobile_quoting"
         case visitorMessageEditing = "visitor_message_editing"
+        case disablingMessageInputField = "disabling_message_input_field"
 //        case multilang
 //        case chattingTimer = "chatting_timer"
 //        case googleAnalytics = "google_analytics"
