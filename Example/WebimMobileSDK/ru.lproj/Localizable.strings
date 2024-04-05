@@ -1,0 +1,46 @@
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"* Account name can't be empty." = "* Название аккаунта не может быть пустым";
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"* Location can't be empty." = "* Размещение не может быть пустым";
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"Error" = "Ошибка";
+//UIAlertHandler.swift
+"Account" = "Аккаунт";
+//WMSettingsViewController.swift
+"Account name has invalid characters" = "Название аккаунта содержит недопустимые символы.";
+//WebimService.swift
+"AccountBlocked" = "Учетная запись, с помощью которой была произведена попытка начать сессию, заблокирован. Пожалуйста, обратитесь в службу поддержки \"Webim\" или используйте другую учетную запись.";
+//UIAlertHandler.swift
+"Alert account name" = "Введите полный URL сервера или название аккаунта, размещённого на сервере *.webim.ru. Например для сервера https://demo.webim.ru нужно ввести demo.";
+//UIAlertHandler.swift
+"Cancel" = "Отменить";
+//ConnectionErrorView.xib
+"Connection error" = "Отсутствует подключение";
+//UIAlertHandler.swift
+"InvalidSettings" = "Некорректное название аккаунта";
+//WMSettingsViewController.swift
+"Location has invalid characters" = "Размещение содержит недопустимые символы.";
+//AdditionalKeys.swift
+"P.CR" = "Оператор запросил контактные данные.";
+//AdditionalKeys.swift
+"P.OA" = "Обращению назначен оператор: %@.";
+//AdditionalKeys.swift
+"P.OF" = "%@ прислал файл: %@.";
+//AdditionalKeys.swift
+"P.OM" = "%@ написал сообщение: %@.";
+//AdditionalKeys.swift
+"P.RO" = "Оцените оператора.";
+//StringConstants.swift
+"Copy" = "Копировать";
+//StringConstants.swift
+"Delete" = "Удалить";
+//StringConstants.swift
+"Reply" = "Редактировать";
+//WMStartViewController.xib
+"Welcome to the WebimClientLibrary app!" = "Добро пожаловать в приложение Webim Chat!";
+//WMThanksAlertView.xib
+"Your feedback will help us become better." = "Ваш отзыв поможет нам стать лучше.";
+//WebimService.swift
+"Your visitor account is in the black list." = "Ваша учетная запись посетителя находится в черном списке.";
+//WMSettingsViewController.swift
+"Parse demo visitor error." = "Ошибка получения данных о пользователе.";

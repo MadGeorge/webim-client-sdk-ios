@@ -1,0 +1,46 @@
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"* Account name can't be empty." = "* Account name can't be empty.";
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"* Location can't be empty." = "* Location can't be empty.";
+//WMSettingsViewController.swift,WMSettingsViewController.xib
+"Error" = "Error";
+//UIAlertHandler.swift
+"Account" = "Account";
+//WMSettingsViewController.swift
+"Account name has invalid characters" = "Account name has invalid characters.";
+//WebimService.swift
+"AccountBlocked" = "Account that is used to create session is blocked. Please contact Webim support or use another one.";
+//UIAlertHandler.swift
+"Alert account name" = "Webim account name or full server address (for example, \"demo\" or \"https://demo.webim.ru\")";
+//UIAlertHandler.swift
+"Cancel" = "Cancel";
+//ConnectionErrorView.xib
+"Connection error" = "Connection error";
+//UIAlertHandler.swift
+"InvalidSettings" = "Invalid Account Settings";
+//WMSettingsViewController.swift
+"Location has invalid characters" = "Location has invalid characters.";
+//AdditionalKeys.swift
+"P.CR" = "An agent requested your contact data.";
+//AdditionalKeys.swift
+"P.OA" = "Agent %@ was assigned to your request.";
+//AdditionalKeys.swift
+"P.OF" = "%@ sent a file: %@.";
+//AdditionalKeys.swift
+"P.OM" = "%@ written a message: %@";
+//AdditionalKeys.swift
+"P.RO" = "Rate the agent.";
+//StringConstants.swift
+"Copy" = "Copy";
+//StringConstants.swift
+"Delete" = "Delete";
+//StringConstants.swift
+"Reply" = "Reply";
+//WMStartViewController.xib
+"Welcome to the WebimClientLibrary app!" = "Welcome to the Webim Chat App!";
+//WMThanksAlertView.xib
+"Your feedback will help us become better." = "Your feedback will help us become better.";
+//WebimService.swift
+"Your visitor account is in the black list." = "Your visitor account is in the black list.";
+//WMSettingsViewController.swift
+"Parse demo visitor error." = "Parse demo visitor error.";

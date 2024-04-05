@@ -25,7 +25,7 @@
 //
 
 import Foundation
-@testable import WebimClientLibrary
+@testable import WebimMobileSDK
 import XCTest
 
 // MARK: - Global constants
@@ -143,7 +143,7 @@ class SendingFactoryTests: XCTestCase {
 
     func testCreateTextMessageToSendWithQuoteWith() {
         let message = MessageImpl(serverURLString: "Some",
-                                  id: "Some",
+                                  clientSideID: "Some",
                                   serverSideID: nil,
                                   keyboard: nil,
                                   keyboardRequest: nil,

@@ -25,7 +25,7 @@
 //
 
 import Foundation
-@testable import WebimClientLibrary
+@testable import WebimMobileSDK
 import XCTest
 @testable import FirebaseCoreInternal
 
@@ -121,7 +121,7 @@ class MessageItemTests: XCTestCase {
     func testInit() {
         
         XCTAssertEqual(sut.getClientSideID(), "84e51d5638524ee7833a1fe19a1f2448")
-        XCTAssertEqual(sut.getID(), "26871")
+        XCTAssertEqual(sut.getServerSideID(), "26871")
         XCTAssertEqual(sut.getText(), "42")
         XCTAssertEqual(sut.getSenderID(), "33202")
         XCTAssertEqual(sut.getSenderAvatarURLString(), "/webim/images/avatar/demo_33202.png")
